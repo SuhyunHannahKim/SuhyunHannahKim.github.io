@@ -1438,7 +1438,7 @@ a.menu-toggle {
 	left: 0;
 }
 .About-content .image-part {
-	margin: 0 auto;
+	margin: 0px auto 210px auto;
 	height: 660px;
 	background-image: url("../images/business%20woman.png");
 	background-repeat: no-repeat;
